@@ -8,6 +8,12 @@ Software Requirements
  - Labcenter Electronics Proteus ISIS 8.5 or above.
  - NI LabVIEW 2015 + NI VISA (fetched from lab instructor).
 
+# 17-October-2016
+**Lab 1**  proposed solution of assignment
+ - Reading motor velocity and direction from encoder and display it on LCD.
+ ![enter image description here](https://s15.postimg.org/i9t9w413f/2016_10_16_22_09_19.jpg)
+ 
+
 # 10-October-2016
 **Lab 1** was added with Proteus, LabVIEW and Arduino files for reading 2 channels  magnetic encoder.
 Link to **feedback** :  https://goo.gl/H5n8BY
