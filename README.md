@@ -13,6 +13,11 @@ Software Requirements
  - Reading motor velocity and direction from encoder and display it on LCD.
  ![enter image description here](https://s15.postimg.org/i9t9w413f/2016_10_16_22_09_19.jpg)
  
+**Note :** If you confront any problem with SimpleTimer library, kindly download this version from my fork
+https://github.com/wbadry/SimpleTimer
+
+Install it using "**Add .zip library**" in include library option. Restart **Arduino IDE** and code will be compiled.
+ 
 
 # 10-October-2016
 **Lab 1** was added with Proteus, LabVIEW and Arduino files for reading 2 channels  magnetic encoder.
