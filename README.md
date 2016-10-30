@@ -8,6 +8,14 @@ Software Requirements
  - Labcenter Electronics Proteus ISIS 8.5 or above.
  - NI LabVIEW 2015 + NI VISA (fetched from lab instructor).
 
+# 30-October-2016
+**Lab 3**  Added SFC for stamping machine
+
+ - SFC (Automation Studio)
+ - Petri Net simulation of single cylinder.
+![enter image description here](http://i.giphy.com/l2JhnKLcDPsWf41ZC.gif)
+
+
 # 17-October-2016
 **Lab 1**  proposed solution of assignment
  - Reading motor velocity and direction from encoder and display it on LCD.
