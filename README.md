@@ -8,6 +8,13 @@ Software Requirements
  - Labcenter Electronics Proteus ISIS 8.5 or above.
  - NI LabVIEW 2015 + NI VISA (fetched from lab instructor).
 
+# 16-November-2016
+**Lab 4**  Added Petri Net files for simulation of Stamping Machine
+
+ - Petri NET (C# code)
+ - Proteus model
+ - Firmata Arduino code
+
 # 30-October-2016
 **Lab 3**  Added SFC for stamping machine
 
